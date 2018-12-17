@@ -3,6 +3,7 @@ The rainbow with unicorn
 purple
 orange 
 green
+indigo
 yello
 blue
 Unicorn
